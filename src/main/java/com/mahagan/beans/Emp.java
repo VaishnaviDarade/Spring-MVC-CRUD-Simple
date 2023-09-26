@@ -1,6 +1,6 @@
 package com.mahagan.beans;
   
-public class Emp {  
+public class Emp {
 private int id;  
 private String name;  
 private float salary;  
