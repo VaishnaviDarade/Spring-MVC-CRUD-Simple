@@ -36,4 +36,7 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-jdbc:5.1.1.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.1.1.RELEASE" level="project" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="aa109239-8201-41a6-8310-0a3bcb51202f" />
+  </component>
 </module>
