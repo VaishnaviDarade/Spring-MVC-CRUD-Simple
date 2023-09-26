@@ -1,5 +1,6 @@
 package com.mahagan.beans;
-  
+
+//This is my domain class
 public class Emp {
 private int id;  
 private String name;  
